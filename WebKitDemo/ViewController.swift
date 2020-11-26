@@ -47,7 +47,6 @@ class ViewController: UIViewController, WKNavigationDelegate, WKUIDelegate, WKSc
 //    }()
 //
 
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.webView?.uiDelegate = self
